@@ -6,7 +6,7 @@ Hands-on Linux command-line practice through the OverTheWire Bandit wargame.
 
 ## Progress
 
-- [ ] Level 0 → 1
+- [x] Level 0 → 1
 - [ ] Level 1 → 2
 - [ ] Level 2 → 3
 
