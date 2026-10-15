@@ -1,6 +1,8 @@
 # Assembly Language
 
-Notes and study progress for learning x86 assembly language.
+Notes on learning x86 assembly language, computer architecture, and low-level programming.
+
+This section documents what I study, what I understand, and the concepts I need to practice further.
 
 ## Main Resource
 
@@ -8,18 +10,28 @@ Notes and study progress for learning x86 assembly language.
 
 ## Study Notes
 
-- [Introduction and Data Representation](01-introduction-and-data-representation.md)
+- [Introduction and Data Representation](https://github.com/Hypnoseng/rad-journal/blob/main/04-assembly-language/01-introduction-and-data-representation.md) — Introduction to assembly language, virtual machines, binary integers, binary addition, integer storage sizes, and hexadecimal integers.
 
 ## Progress
 
-Studied through **Section 1.3.4 — Hexadecimal Integers**.
+Currently studying **Chapter 1 — Basic Concepts**, through **Section 1.3.4 — Hexadecimal Integers**.
 
-This records the material covered so far. It does not claim mastery of every topic.
+Topics covered so far:
 
-## Workflow
+- Introduction to assembly language and its applications
+- Assemblers, linkers, and debuggers
+- The virtual machine concept, interpretation, and translation
+- Binary integer representation and conversion
+- Binary addition and carry
+- Integer storage sizes and unsigned integer ranges
+- Hexadecimal representation of binary data
 
-1. Read the assigned section.
-2. Explain the concept in my own words.
-3. Try small examples when the topic supports practical work.
-4. Record observations and questions.
-5. Update this progress list after studying.
+Studying a topic does not necessarily mean that I have mastered it. I use notes and practice to identify gaps in my understanding.
+
+## Learning Workflow
+
+1. Read a section of the textbook.
+2. Summarize the main concepts in my own words.
+3. Work through examples and exercises.
+4. Record what I learned and what still needs practice.
+5. Update the study notes as I make progress.
