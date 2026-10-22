@@ -5,7 +5,7 @@
 The password for the next level is stored in `data.txt`. The file is a
 hexdump of a file that has been compressed multiple times.
 
-## Approach (วิธีทำ)
+## Approach 
 
 1.  Create a temporary working directory so the original file stays
     untouched.
@@ -42,7 +42,7 @@ extraction step.
 > Note: The exact sequence of compression formats depends on the file's
 > contents. Identify each layer rather than assuming a fixed order.
 
-## What I Learned (สิ่งที่ได้เรียนรู้)
+## What I Learned 
 
 -   A hexdump is a readable representation of binary bytes; `xxd -r`
     converts it back to binary data.
